@@ -1,0 +1,668 @@
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\Guna.UI.dll
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\YASMINE\source\repos\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\bin\Debug\Guna.UI.dll
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.GérerCompteAdmin.resources
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.GérerCompteEtudiant.resources
+C:\Users\YASMINE\source\repos\ProjetV1\PlayerUI\obj\Debug\PlayerUI.GérerCompteProf.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\YASMINE\source\repos\ProjetV1\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.ModiferEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.ModifierAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.ModifierProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV1\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModiferEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV4\ProjetV3\ProjetV3\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModiferEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierAdminUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierProfUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\hp\Downloads\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModiferEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\hp\Downloads\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\Guna.UI.dll
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsencePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscencePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsFormPROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterListeEtudiantPROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC_PROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierComptePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Professeur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\Guna.UI.dll
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsencePROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscencePROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsFormPROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterListeEtudiantPROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC_PROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierComptePROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Professeur.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsencePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscencePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsFormPROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterListeEtudiantPROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC_PROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierComptePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Professeur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV6_fouad\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsencePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscencePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsFormPROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterListeEtudiantPROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC_PROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierComptePROF.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Professeur.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\lenovo 310\Desktop\Mode connecté\ProjetV_proMax\ProjetV_endinfinity\ProjetV_end\ProjetV7.1\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.dll
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\Guna.UI.dll
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.xml
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsencePROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscencePROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsFormPROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterListeEtudiantPROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC_PROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierComptePROF.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Professeur.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\ProjetV_END (1)\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Desktop\PlayerUI.exe.config
+C:\Users\Taoufik\Desktop\PlayerUI.exe
+C:\Users\Taoufik\Desktop\PlayerUI.pdb
+C:\Users\Taoufik\Desktop\FOUAD EXE\PlayerUI.exe.config
+C:\Users\Taoufik\Desktop\FOUAD EXE\PlayerUI.exe
+C:\Users\Taoufik\Desktop\FOUAD EXE\PlayerUI.pdb
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AbsenceUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Administrateur.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.adminUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Affectation.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsence.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutAbsencePROF.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterAdminUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterModule.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjouterProfUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.AjoutFiliereForm.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscence.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbscencePROF.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsForm.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAbsFormPROF.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterAdminUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterEtudiantUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ConsulterprofUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.declarerAbsence.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Etudiant.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantConsulterAbsenceUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantGererCompteUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.EtudiantJustifierUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.etudiantUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterEtudiantForm.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ExporterListeEtudiantPROF.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ImportEtudiantByFiliere.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.JustificationEncoursUC_PROF.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierComptePROF.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ModifierPass.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Professeur.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilAUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilPUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.ProfilUC.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.profUserControl.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Taoufik\Downloads\CODE SOURCE\ProjetV_END\ProjetV5\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Taoufik\Desktop\EXE\PlayerUI.exe.config
+C:\Users\Taoufik\Desktop\EXE\PlayerUI.exe
+C:\Users\Taoufik\Desktop\EXE\PlayerUI.pdb

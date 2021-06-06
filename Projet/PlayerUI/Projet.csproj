@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B265B459-B4B6-44BC-BDB1-B401C58DC48F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlayerUI</RootNamespace>
+    <AssemblyName>PlayerUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\Desktop\EXE\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.13.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.13.0\lib\net45\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI_WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>D:\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI2_WinFroms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbsenceUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AbsenceUC.Designer.cs">
+      <DependentUpon>AbsenceUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrateur.designer.cs">
+      <DependentUpon>Administrateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminUserControl.Designer.cs">
+      <DependentUpon>adminUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Affectation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Affectation.Designer.cs">
+      <DependentUpon>Affectation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutAbsence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjoutAbsence.Designer.cs">
+      <DependentUpon>AjoutAbsence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutAbsencePROF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjoutAbsencePROF.designer.cs">
+      <DependentUpon>AjoutAbsencePROF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterAdminUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjouterAdminUserControl.Designer.cs">
+      <DependentUpon>AjouterAdminUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterEtudiantUserControl - Copier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjouterEtudiantUserControl - Copier.Designer.cs">
+      <DependentUpon>AjouterEtudiantUserControl - Copier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterModule.Designer.cs">
+      <DependentUpon>AjouterModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterProfUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjouterProfUserControl.Designer.cs">
+      <DependentUpon>AjouterProfUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutFiliereForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutFiliereForm.Designer.cs">
+      <DependentUpon>AjoutFiliereForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterAbscence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConsulterAbscence.Designer.cs">
+      <DependentUpon>ConsulterAbscence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterAbscencePROF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConsulterAbscencePROF.designer.cs">
+      <DependentUpon>ConsulterAbscencePROF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterAbsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterAbsForm.Designer.cs">
+      <DependentUpon>ConsulterAbsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterAbsFormPROF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterAbsFormPROF.designer.cs">
+      <DependentUpon>ConsulterAbsFormPROF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterAdminUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConsulterAdminUC.Designer.cs">
+      <DependentUpon>ConsulterAdminUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterEtudiantUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConsulterEtudiantUserControl.Designer.cs">
+      <DependentUpon>ConsulterEtudiantUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterprofUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConsulterprofUC.Designer.cs">
+      <DependentUpon>ConsulterprofUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="declarerAbsence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="declarerAbsence.Designer.cs">
+      <DependentUpon>declarerAbsence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Etudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Etudiant.designer.cs">
+      <DependentUpon>Etudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etudiant1.cs" />
+    <Compile Include="EtudiantConsulterAbsenceUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EtudiantConsulterAbsenceUserControl.designer.cs">
+      <DependentUpon>EtudiantConsulterAbsenceUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EtudiantGererCompteUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EtudiantGererCompteUserControl.designer.cs">
+      <DependentUpon>EtudiantGererCompteUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EtudiantJustifierUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EtudiantJustifierUserControl.designer.cs">
+      <DependentUpon>EtudiantJustifierUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etudiantUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="etudiantUserControl.Designer.cs">
+      <DependentUpon>etudiantUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExporterEtudiantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExporterEtudiantForm.Designer.cs">
+      <DependentUpon>ExporterEtudiantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExporterListeEtudiantPROF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExporterListeEtudiantPROF.designer.cs">
+      <DependentUpon>ExporterListeEtudiantPROF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportEtudiantByFiliere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportEtudiantByFiliere.Designer.cs">
+      <DependentUpon>ImportEtudiantByFiliere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JustificationEncoursUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JustificationEncoursUC.Designer.cs">
+      <DependentUpon>JustificationEncoursUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JustificationEncoursUC_PROF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JustificationEncoursUC_PROF.Designer.cs">
+      <DependentUpon>JustificationEncoursUC_PROF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierComptePROF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModifierComptePROF.designer.cs">
+      <DependentUpon>ModifierComptePROF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierPass.Designer.cs">
+      <DependentUpon>ModifierPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Professeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Professeur.designer.cs">
+      <DependentUpon>Professeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilAUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProfilAUC.Designer.cs">
+      <DependentUpon>ProfilAUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilPUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProfilPUC.Designer.cs">
+      <DependentUpon>ProfilPUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProfilUC.Designer.cs">
+      <DependentUpon>ProfilUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="profUserControl.Designer.cs">
+      <DependentUpon>profUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegexUtilities.cs" />
+    <EmbeddedResource Include="AbsenceUC.resx">
+      <DependentUpon>AbsenceUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrateur.resx">
+      <DependentUpon>Administrateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminUserControl.resx">
+      <DependentUpon>adminUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Affectation.resx">
+      <DependentUpon>Affectation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutAbsence.resx">
+      <DependentUpon>AjoutAbsence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutAbsencePROF.resx">
+      <DependentUpon>AjoutAbsencePROF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterAdminUserControl.resx">
+      <DependentUpon>AjouterAdminUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterEtudiantUserControl - Copier.resx">
+      <DependentUpon>AjouterEtudiantUserControl - Copier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterModule.resx">
+      <DependentUpon>AjouterModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterProfUserControl.resx">
+      <DependentUpon>AjouterProfUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutFiliereForm.resx">
+      <DependentUpon>AjoutFiliereForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterAbscence.resx">
+      <DependentUpon>ConsulterAbscence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterAbscencePROF.resx">
+      <DependentUpon>ConsulterAbscencePROF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterAbsForm.resx">
+      <DependentUpon>ConsulterAbsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterAbsFormPROF.resx">
+      <DependentUpon>ConsulterAbsFormPROF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterAdminUC.resx">
+      <DependentUpon>ConsulterAdminUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterEtudiantUserControl.resx">
+      <DependentUpon>ConsulterEtudiantUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterprofUC.resx">
+      <DependentUpon>ConsulterprofUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="declarerAbsence.resx">
+      <DependentUpon>declarerAbsence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Etudiant.resx">
+      <DependentUpon>Etudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EtudiantConsulterAbsenceUserControl.resx">
+      <DependentUpon>EtudiantConsulterAbsenceUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EtudiantGererCompteUserControl.resx">
+      <DependentUpon>EtudiantGererCompteUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EtudiantJustifierUserControl.resx">
+      <DependentUpon>EtudiantJustifierUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="etudiantUserControl.resx">
+      <DependentUpon>etudiantUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExporterEtudiantForm.resx">
+      <DependentUpon>ExporterEtudiantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExporterListeEtudiantPROF.resx">
+      <DependentUpon>ExporterListeEtudiantPROF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportEtudiantByFiliere.resx">
+      <DependentUpon>ImportEtudiantByFiliere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JustificationEncoursUC.resx">
+      <DependentUpon>JustificationEncoursUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JustificationEncoursUC_PROF.resx">
+      <DependentUpon>JustificationEncoursUC_PROF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierComptePROF.resx">
+      <DependentUpon>ModifierComptePROF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierPass.resx">
+      <DependentUpon>ModifierPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professeur.resx">
+      <DependentUpon>Professeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilAUC.resx">
+      <DependentUpon>ProfilAUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilPUC.resx">
+      <DependentUpon>ProfilPUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilUC.resx">
+      <DependentUpon>ProfilUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profUserControl.resx">
+      <DependentUpon>profUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tux_png_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconSearch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconSearch-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tux_png_241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medicalfile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ensak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\universite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\logo.png" />
+    <None Include="Resources\Tinder-notificacion-sound-effect.wav" />
+    <None Include="Resources\pictureBox1.Image.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
